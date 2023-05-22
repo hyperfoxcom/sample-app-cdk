@@ -1,0 +1,1000 @@
+ 1023  php artisan test
+ 1024  gitf
+ 1025  php artisan test
+ 1026  git checkout -b HYP-142-create-order-from-the-portal
+ 1027  nrd
+ 1028  gitf
+ 1029  gitname 
+ 1030  git checkout HYP-15_Proceed_to_the_checkout_page
+ 1031  gitPullCurrentBranch.sh 
+ 1032  git checkout HYP-142-create-order-from-the-portal
+ 1033  gitname 
+ 1034  gitf
+ 1035  git checkout HYP-15_Proceed_to_the_checkout_page
+ 1036  gitPUl
+ 1037  gitPullCurrentBranch.sh 
+ 1038  ni
+ 1039  nrd
+ 1040  nrb
+ 1041  nrd
+ 1042  git checkout HYP-142-create-order-from-the-portal
+ 1043  git pull origin  HYP-15_Proceed_to_the_checkout_page
+ 1044  gitf
+ 1045  pushd .
+ 1046  cd ..
+ 1047  ls
+ 1048  cd ../
+ 1049  ls
+ 1050  cd HyperFox/
+ 1051  ls
+ 1052  mkdir Github
+ 1053  cd Github/
+ 1054  mkdir langchainjs-tutorial-1
+ 1055  cd langchainjs-tutorial-1/
+ 1056  ls
+ 1057  npm init es6 -y
+ 1058  npm install typescript
+ 1059  npm install -D ts-node
+ 1060  npm install @types/node
+ 1061  npx tsc --init --rootDir src --outDir ./dist --esModuleInterop --lib ES2020 --target ES2020 --module nodenext --noImplicitAny true
+ 1062  ls
+ 1063  popd 
+ 1064  mkdir src
+ 1065  ls
+ 1066  echo "console.log('Welcome to the LangChain.js tutorial by LangChainers.')" > src/app.ts
+ 1067  code src/app.ts 
+ 1068  nrb
+ 1069  nu
+ 1070  cp ../../portal/.nvmrc .
+ 1071  nu
+ 1072  ni
+ 1073  nrb
+ 1074  nrs
+ 1075  ns
+ 1076  code /home/haduart/.bashrc 
+ 1077  nrs
+ 1078  reload 
+ 1079  nrs
+ 1080  npm install langchain
+ 1081  npm install openai
+ 1082  npm install dotenv
+ 1083  code README.md
+ 1084  cod .env
+ 1085  code .env
+ 1086  code src/app.ts 
+ 1087  nrs
+ 1088  nrb
+ 1089  nrs
+ 1090  nrd
+ 1091  nrb
+ 1092  nrs
+ 1093  nrd
+ 1094  nrb
+ 1095  nrs
+ 1096  cp src/app.ts nrb
+ 1097  ls
+ 1098  rm nrb 
+ 1099  ls
+ 1100  nrb
+ 1101  nrd
+ 1102  nrb
+ 1103  nrs
+ 1104  nrb
+ 1105  nrs
+ 1106  nrb
+ 1107  nrd
+ 1108  cd ..
+ 1109  git clone git@github.com:mayooear/langchain-js-tutorial.git
+ 1110  nu
+ 1111  ni
+ 1112  cp ../langchainjs-tutorial-1/.nvmrc .
+ 1113  nu
+ 1114  ni
+ 1115  code ../langchainjs-tutorial-1/.env 
+ 1116  nrs src/document_loaders/text.ts 
+ 1117  ni
+ 1118  npm run start ./src/basic_call.ts 
+ 1119  cd src/
+ 1120  npm run start ./basic_call.ts 
+ 1121  pushd .
+ 1122  cd ..
+ 1123  cp .env.example .env
+ 1124  cd src/
+ 1125  npm run start ./basic_call.ts 
+ 1126  npm run start ./indexes/embeddings.ts 
+ 1127  npm run start ./chains/question_answering.ts 
+ 1128  npm run start ./chains/summarization.ts 
+ 1129  npm run start ./indexes/recursive_text_splitter.ts 
+ 1130  npm run start ./indexes/vectorstores.ts 
+ 1131  npm run start ./document_loaders/text.ts 
+ 1132  pushd .
+ 1133  cd ..
+ 1134  git clone git@github.com:mayooear/gpt4-pdf-chatbot-langchain.gi
+ 1135  popd 
+ 1136  npm run start ./document_loaders/cheerio.ts 
+ 1137  npm install --save @types/cheerio
+ 1138  npm run start ./document_loaders/cheerio.ts 
+ 1139  npm install --save cheerio
+ 1140  npm run start ./document_loaders/cheerio.ts 
+ 1141  npm install --save puppeteer
+ 1142  npm install --save @types/puppeteer
+ 1143  npm run start ./document_loaders/puppeteer.ts 
+ 1144  npm run start ./document_loaders/cheerio.ts 
+ 1145  cd ..
+ 1146  cp .env .env.example 
+ 1147  gits
+ 1148  git add *
+ 1149  gitname 
+ 1150  git remote -v 
+ 1151  cd ..
+ 1152  git clone git@github.com:hwchase17/langchainjs.git
+ 1153  popd 
+ 1154  npm install --save pdfjs-dist
+ 1155  npm run start ./document_loaders/pdfloader.ts 
+ 1156  cp ../langchain-js-tutorial/.env .
+ 1157  cp ../langchain-js-tutorial/.nvmrc .
+ 1158  nu
+ 1159  ni
+ 1160  cd Documents/HyperFox/Github/langchainjs-tutorial-1/
+ 1161  ls
+ 1162  cat output/responses.json 
+ 1163  more output/responses.json 
+ 1164  gits
+ 1165  git checkout master
+ 1166  gitPullCurrentBranch.sh 
+ 1167  nrd
+ 1168  nu
+ 1169  ni
+ 1170  nrd
+ 1171  cd langchainjs-tutorial-1/
+ 1172  nu
+ 1173  ni
+ 1174  nrs
+ 1175  nrb
+ 1176  nrd
+ 1177  nrb
+ 1178  nrd
+ 1179  nrb
+ 1180  nrs
+ 1181  nrb
+ 1182  nrs
+ 1183  nrb
+ 1184  nrs
+ 1185  nrb
+ 1186  nrs
+ 1187  nrb
+ 1188  nrs
+ 1189  nrb
+ 1190  nrs
+ 1191  nrb
+ 1192  nrs
+ 1193  nrb
+ 1194  nrs
+ 1195  nrb
+ 1196  nrs
+ 1197  nrb
+ 1198  nrs
+ 1199  nrb
+ 1200  nrs
+ 1201  nrb
+ 1202  nrs
+ 1203  nrb
+ 1204  nrs
+ 1205  nrb
+ 1206  nrs
+ 1207  nrb
+ 1208  nrs
+ 1209  nrb
+ 1210  nrs
+ 1211  nrb
+ 1212  nrs
+ 1213  nrb
+ 1214  nrs
+ 1215  nrb
+ 1216  nrs
+ 1217  nrb
+ 1218  nrs
+ 1219  nrb
+ 1220  nrs
+ 1221  nrb
+ 1222  nrs
+ 1223  nrb
+ 1224  nrs
+ 1225  nrb
+ 1226  nrs
+ 1227  nrb
+ 1228  nrs
+ 1229  nrb
+ 1230  nrs
+ 1231  nrb
+ 1232  nrs
+ 1233  nrb
+ 1234  nrs
+ 1235  npm install --save csv-parser
+ 1236  ls ../../Documents/Joma/
+ 1237  more ../../Documents/Joma/joma-sport-products.xlsx 
+ 1238  more ../../Documents/Joma/joma-sport-products.csv 
+ 1239  nrb
+ 1240  nrs
+ 1241  nrb
+ 1242  nrs
+ 1243  nrb
+ 1244  nrs
+ 1245  nrb
+ 1246  nrs
+ 1247  nrb
+ 1248  nrs
+ 1249  nrb
+ 1250  nrs
+ 1251  more ../../Documents/Joma/joma-sport-products.csv 
+ 1252  nrb
+ 1253  nrs
+ 1254  nrb
+ 1255  nrs
+ 1256  nrb
+ 1257  nrs
+ 1258  nrb
+ 1259  ls
+ 1260  nrs
+ 1261  more responses.json 
+ 1262  timestamp=$(date '+%Y%m%d%H%M%S')
+ 1263  echo $timestamp
+ 1264  mv responses.json responses-$timestamp.json 
+ 1265  nrb
+ 1266  nrs
+ 1267  cat responses.json 
+ 1268  ls
+ 1269  timestamp=$(date '+%Y%m%d%H%M%S')
+ 1270  mv responses.json responses-$timestamp.json 
+ 1271  ls
+ 1272  nrb
+ 1273  nrs
+ 1274  more responses.json 
+ 1275  timestamp=$(date '+%Y%m%d%H%M%S')
+ 1276  mv responses.json responses-$timestamp.json 
+ 1277  ls
+ 1278  timestamp=$(date '+%Y%m%d%H%M')
+ 1279  echo $timestamp
+ 1280  ls
+ 1281  code responses-20230412084033.json 
+ 1282  nrb
+ 1283  time nrs
+ 1284  ls
+ 1285  mkdir output
+ 1286  ls
+ 1287  nrb
+ 1288  time nrs
+ 1289  cp ../../Documents/Joma/joma-sport-products.csv .
+ 1290  echo $timestamp
+ 1291  timestamp=$(date '+%Y%m%d%H%M')
+ 1292  mv ./output/responses.json ./output/responses-$timestamp.json 
+ 1293  code ./output/responses-202304131055.json 
+ 1294  cp ~/Downloads/html.zip .
+ 1295  mkdir htmls
+ 1296  mv html.zip htmls/
+ 1297  ls
+ 1298  cd htmls/
+ 1299  ls
+ 1300  unzip html.zip 
+ 1301  ls
+ 1302  mv html.zip ../
+ 1303  rm -Rfdv html
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  rmdir htmls
+ 1308  unzip html.zip 
+ 1309  npm install --save jsdom
+ 1310  npm i --save-dev @types/jsdom`
+ 1311  npm i --save-dev @types/jsdom
+ 1312  nrb
+ 1313  nrs
+ 1314  nrb
+ 1315  nrs
+ 1316  nrb
+ 1317  nrs
+ 1318  nrb
+ 1319  nrs
+ 1320  nrb
+ 1321  nrs
+ 1322  nrb
+ 1323  nrs
+ 1324  nrb
+ 1325  nrs
+ 1326  nrb
+ 1327  nrs
+ 1328  nrb
+ 1329  nrs
+ 1330  nrb
+ 1331  nrs
+ 1332  nrb
+ 1333  nrs
+ 1334  nrb
+ 1335  nrs
+ 1336  nrb
+ 1337  nrs
+ 1338  nrb
+ 1339  nrs
+ 1340  nrb
+ 1341  nrs
+ 1342  nrb
+ 1343  nrs
+ 1344  nrb
+ 1345  nrs
+ 1346  nrb
+ 1347  nrs
+ 1348  nrb
+ 1349  nrs
+ 1350  nrb
+ 1351  nrs
+ 1352  nrb
+ 1353  nrs
+ 1354  nrb
+ 1355  nrs
+ 1356  nrb
+ 1357  nrs
+ 1358  pushd .
+ 1359  cd ..
+ 1360  cp ~/Downloads/joma-import.zip .
+ 1361  unzip joma-import.zip 
+ 1362  popd 
+ 1363  code ../joma-import/index.php 
+ 1364  nrb
+ 1365  nrs
+ 1366  nrb
+ 1367  nrs
+ 1368  nrs > not-found.log 
+ 1369  nrb
+ 1370  nrs > not-found.log 
+ 1371  code ./html/3483.55.100.html
+ 1372  nrb
+ 1373  nrs
+ 1374  nrb
+ 1375  nrs
+ 1376  nrb
+ 1377  nrs
+ 1378  nrb
+ 1379  nrs
+ 1380  ls
+ 1381  more output/responses-202304131055.json C
+ 1382  nrb
+ 1383  nrs
+ 1384  nrb
+ 1385  nrs
+ 1386  nrb
+ 1387  nrs
+ 1388  nrb
+ 1389  nrs
+ 1390  code output/responses-202304131055.json 
+ 1391  rm output/responses.json 
+ 1392  nrb
+ 1393  nrs
+ 1394  ls output/responses.json 
+ 1395  code output/responses.json 
+ 1396  cat output/responses.json | grep model\"\ :\" | more
+ 1397  cat output/responses.json | grep model\" :\" | more
+ 1398  cat output/responses.json | grep "model\" :\"" | more
+ 1399  cat output/responses.json | grep model | more
+ 1400  cat output/responses.json | grep model": | more
+ 1401  cat output/responses.json | grep model\": | more
+ 1402  nrb
+ 1403  tail -f not-found.log 
+ 1404  rm not-found.log 
+ 1405  tail -f not-found.log 
+ 1406  code ../joma-import/index.php 
+ 1407  cat not-found.log | grep Problem
+ 1408  cat not-found.log | grep Problem | wc -l
+ 1409  cd Documents/HyperFox/Github/langchainjs-tutorial-1/
+ 1410  ls
+ 1411  more output/responses.json 
+ 1412  cat  output/responses.json | grep sku | more
+ 1413  cat  output/responses.json | grep "sku" | more
+ 1414  cat  output/responses.json | more
+ 1415  cat  output/responses.json | grep model | more
+ 1416  cat  output/responses.json | grep "model": | more
+ 1417  cat  output/responses.json | grep \"model\": | more
+ 1418  cat  output/responses.json | grep \"model\": | wc -l
+ 1419  watch cat  output/responses.json | grep \"model\": | wc -l
+ 1420  cat  output/responses.json | grep \"model\": | wc -l
+ 1421  cat ../../Documents/Joma/joma-sport-products.csv | wc -l
+ 1422  cat  output/responses.json | grep \"model\": | wc -l
+ 1423  cat ../../Documents/Joma/joma-sport-products.csv | wc -l
+ 1424  cat  output/responses.json | grep \"model\": | wc -l
+ 1425  more output/responses.json 
+ 1426  cat  output/responses.json | grep \"model\": | wc -l
+ 1427  cd ..
+ 1428  git clone git@github.com:hwchase17/chat-your-data.git
+ 1429  cd chat-your-data/
+ 1430  ls
+ 1431  cat ../langchainjs-tutorial-1/output/responses.json | grep \"model\": | wc -l
+ 1432  gits
+ 1433  docker status
+ 1434  cat history.txt 
+ 1435  sailup 
+ 1436  pushd .
+ 1437  cd ../provisioner/
+ 1438  sailup 
+ 1439  popd 
+ 1440  gits
+ 1441  gitf
+ 1442  php artisan test
+ 1443  git checkout -b HYP-142-create-order-from-the-portal
+ 1444  gits
+ 1445  ./vendor/bin/phpunit 
+ 1446  ls tests/
+ 1447  ls ./tests/
+ 1448  php artisan test
+ 1449  gitf
+ 1450  gitname 
+ 1451  git checkout HYP-15_Proceed_to_the_checkout_page
+ 1452  gitPullCurrentBranch.sh 
+ 1453  ci
+ 1454  git checkout HYP-142-create-order-from-the-portal
+ 1455  gits
+ 1456  gitf
+ 1457  git pull origin HYP-15_Proceed_to_the_checkout_page
+ 1458  gitname 
+ 1459  git checkout HYP-15_Proceed_to_the_checkout_page
+ 1460  gitPullCurrentBranch.sh 
+ 1461  ci
+ 1462  gitname 
+ 1463  git checkout HYP-142-create-order-from-the-portal
+ 1464  git pull origin  HYP-15_Proceed_to_the_checkout_page
+ 1465  ci
+ 1466  gitname 
+ 1467  gits
+ 1468  git diff
+ 1469  gits
+ 1470  gitf
+ 1471  gits
+ 1472  gitf
+ 1473  git pull origin HYP-15_Proceed_to_the_checkout_page
+ 1474  gits
+ 1475  git stash list
+ 1476  git stash drop 0 
+ 1477  git stash list
+ 1478  gitname 
+ 1479  git pull origin main
+ 1480  ci
+ 1481  gits
+ 1482  cat ~/.bashrc | grep alias
+ 1483  saildown 
+ 1484  pushd .
+ 1485  cd ../provisioner/
+ 1486  saildown 
+ 1487  sailup 
+ 1488  popd 
+ 1489  sailup 
+ 1490  saildown 
+ 1491  pushd .
+ 1492  cd ../provisioner/
+ 1493  saildown 
+ 1494  code tsconfig.json 
+ 1495  nrb
+ 1496  code package.json 
+ 1497  nrb
+ 1498  cod output/responses.js 
+ 1499  more output/responses.js 
+ 1500  more output/responses.ts 
+ 1501  cp ./output/responses.ts src/
+ 1502  nrb
+ 1503  mv src/responses.ts src/responses.json
+ 1504  nrb
+ 1505  code src/responses.json 
+ 1506  nrb
+ 1507  nrs
+ 1508  nrb
+ 1509  nrs
+ 1510  nrb
+ 1511  nrs
+ 1512  nrb
+ 1513  nrs
+ 1514  nrb
+ 1515  nrs
+ 1516  nrb
+ 1517  nrs
+ 1518  nrb
+ 1519  nrs
+ 1520  nu
+ 1521  nrb
+ 1522  nrs
+ 1523  nrb
+ 1524  nrs
+ 1525  nrb
+ 1526  nrs
+ 1527  cd Documents/HyperFox/Github/langchainjs-tutorial-1/
+ 1528  code joma-sport-products.csv 
+ 1529  cat output/responses-products-joma.json | grep sku | wc -l
+ 1530  cat output/responses-products-joma.json | more
+ 1531  cat output/responses-products-joma.json | grep sku | wc -l
+ 1532  cat output/responses-products-joma.json | more
+ 1533  cat output/responses-products-joma.json 
+ 1534  cat output/responses-products-joma.json | more
+ 1535  cat output/responses-products-joma.json | grep sku | wc -l
+ 1536  gits
+ 1537  gitPullCurrentBranch.sh 
+ 1538  curl -X POST 'https://api-free.deepl.com/v2/translate' -H 'Authorization: DeepL-Auth-Key b1232536-6b9d-ee13-1ef7-4c6b131fd613:fx' -d 'text=Hello%2C%20world!' -d 'target_lang=DE'
+ 1539  exit
+ 1540  gits
+ 1541  gitf
+ 1542  git stash list
+ 1543  git stash 
+ 1544  gits
+ 1545  gitf
+ 1546  history >> history.txt 
+ 1547  nu
+ 1548  nrb
+ 1549  nu
+ 1550  nrb
+ 1551  rm -Rfdv dist/
+ 1552  nu
+ 1553  nrb
+ 1554  nrg
+ 1555  nrb
+ 1556  nrs
+ 1557  nrb
+ 1558  nrs
+ 1559  nrb
+ 1560  nrs
+ 1561  nrb
+ 1562  nrs
+ 1563  nrb
+ 1564  nrs
+ 1565  nrb
+ 1566  nrs
+ 1567  nrb
+ 1568  nrs
+ 1569  nrb
+ 1570  nrs
+ 1571  nrb
+ 1572  nrs
+ 1573  nrb
+ 1574  nrs
+ 1575  rnb
+ 1576  nrb
+ 1577  nrs
+ 1578  nrb
+ 1579  nrs
+ 1580  nrb
+ 1581  nrs
+ 1582  nrb
+ 1583  nrs
+ 1584  nrb
+ 1585  nrs
+ 1586  nrb
+ 1587  nrs
+ 1588  nrb
+ 1589  nrs
+ 1590  nrb
+ 1591  nrs
+ 1592  nrb
+ 1593  nrs
+ 1594  nrb
+ 1595  nrs
+ 1596  timestamp=$(date '+%Y%m%d%H%M')
+ 1597  echo $timestamp
+ 1598  mv ./output/responses.json ./output/responses-$timestamp.json 
+ 1599  nrb
+ 1600  nrs
+ 1601  nrb
+ 1602  nrs
+ 1603  nrb
+ 1604  nrs
+ 1605  nrb
+ 1606  nrs
+ 1607  nrb
+ 1608  nrs
+ 1609  nrb
+ 1610  nrs
+ 1611  clean
+ 1612  clear
+ 1613  nrs
+ 1614  code joma-sport-products.csv 
+ 1615  more joma-sport-products.csv 
+ 1616  nrb
+ 1617  nrs
+ 1618  nrb
+ 1619  nrs
+ 1620  ls output/responses-products-joma.json 
+ 1621  more output/responses-products-joma.json 
+ 1622  nrb
+ 1623  nrs
+ 1624  nrb
+ 1625  nrs
+ 1626  cat output/responses-products-joma.json 
+ 1627  rm output/responses-products-joma.json 
+ 1628  nrb
+ 1629  nrs
+ 1630  code output/responses-products-joma.json 
+ 1631  code output/responses-202304181126.json 
+ 1632  cat joma-sport-products.csv | wc -l
+ 1633  gits
+ 1634  git init
+ 1635  gits
+ 1636  rm html.zip 
+ 1637  gits
+ 1638  git add *
+ 1639  gits
+ 1640  gits | more
+ 1641  echo "dist/*" > .gitignore 
+ 1642  echo "node_modules/*" > .gitignore 
+ 1643  gits
+ 1644  gits | more
+ 1645  git rm --cached dist/
+ 1646  gits
+ 1647  git rm --cached dist/
+ 1648  git rm --cached dist/ -r
+ 1649  git rm --cached node_modules/ -r
+ 1650  gits
+ 1651  gits | more
+ 1652  git add *
+ 1653  gits
+ 1654  git add .gitignore 
+ 1655  git add .nvmrc 
+ 1656  git add .env 
+ 1657  gits | more
+ 1658  git rm --cached dist/ -r
+ 1659  vim .gitignore 
+ 1660  gits
+ 1661  git add .gitignore 
+ 1662  gits
+ 1663  gits | more
+ 1664  gits
+ 1665  gits | more
+ 1666  git commit -m "first commit" 
+ 1667  git branch -M master
+ 1668  git remote add origin git@github.com:hyperfoxcom/parsing-joma-langchain-tutorial.git
+ 1669  gits
+ 1670  git push -u origin master
+ 1671  gits
+ 1672  npm install deepl-node
+ 1673  mv ./output/responses-products-joma.json src/
+ 1674  nrb
+ 1675  nrs
+ 1676  nrb
+ 1677  nrs
+ 1678  nrb
+ 1679  nrs
+ 1680  code src/responses-products-joma.json 
+ 1681  nrb
+ 1682  time nrs
+ 1683  more ./output/responses-products-joma-translated.json 
+ 1684  rm ./output/responses-products-joma-translated.json 
+ 1685  nrb
+ 1686  time nrs
+ 1687  nrb
+ 1688  time nrs
+ 1689  nrb
+ 1690  time nrs
+ 1691  cat output/responses-products-joma-translated.json | grep model | wc -l
+ 1692  cat output/responses-products-joma-translated.json | grep model | more
+ 1693  rm output/responses-products-joma-translated.json 
+ 1694  nrb
+ 1695  time nrs
+ 1696  cat output/responses-products-joma-translated.json | grep sku | more
+ 1697  cat output/responses-products-joma-translated.json | grep sku | wc -l
+ 1698  cp output/responses-products-joma-translated.json src/
+ 1699  mv src/responses-products-joma-translated.json src/responses-products-joma-translated-DeepL.json 
+ 1700  code src/responses-products-joma-translated-DeepL.json 
+ 1701  cat output/responses-products-joma-translated.json | grep model\": | wc -l
+ 1702  nrb
+ 1703  nrs
+ 1704  nrb
+ 1705  nrs
+ 1706  nrb
+ 1707  nrs
+ 1708  more output/responses-products-joma-translated-GPT.json 
+ 1709  rm output/responses-products-joma-translated-GPT.json 
+ 1710  nrb
+ 1711  time nrs
+ 1712  code output/responses-products-joma-translated-GPT.json 
+ 1713  cp output/responses-products-joma-translated-GPT.json src/
+ 1714  ls
+ 1715  gits
+ 1716  code src/responses-products-joma-translated-DeepL.json 
+ 1717  cat src/responses-products-joma-translated-DeepL.json > src/responses-products-joma-translated-FULL.json
+ 1718  cat src/responses-products-joma-translated-GPT.json >> src/responses-products-joma-translated-FULL.json
+ 1719  code src/responses-products-joma-translated-FULL.json 
+ 1720  nu
+ 1721  npm install papaparse fs
+ 1722  npm install --save-dev @types/papaparse @types/node
+ 1723  nrb
+ 1724  code ./src/responses-products-joma-translated-GPT.json 
+ 1725  nrb
+ 1726  nrs
+ 1727  nrb
+ 1728  nrs
+ 1729  code tsconfig.json 
+ 1730  nrb
+ 1731  nrs
+ 1732  code ./output/productJomaDeepL.csv 
+ 1733  nrb
+ 1734  nrs
+ 1735  code ./output/productJomaGPT.csv 
+ 1736  gits
+ 1737  git add *
+ 1738  gits
+ 1739  git commit -m "Translating with GPT and DeepL"
+ 1740  gits
+ 1741  gitPushCurrentBranch.sh 
+ 1742  gits
+ 1743  apt-cache search vnc
+ 1744  ping raspberrypi.local
+ 1745  apt-cache search vinagre
+ 1746  sudo apt-get install vinagre
+ 1747  sudo apt-get install ./VNC-Viewer-7.1.0-Linux-x64.deb 
+ 1748  ps aux | grep ssh
+ 1749  kill 898174
+ 1750  ps aux | grep ssh
+ 1751  kill 904005
+ 1752  ping raspberrypi.local
+ 1753  ps aux | grep ssh
+ 1754  kill 904521
+ 1755  ps aux | grep ssh
+ 1756  kill 905473
+ 1757  ps aux | grep ssh
+ 1758  kill 17204
+ 1759  ps aux | grep ssh
+ 1760  kill 17204
+ 1761  ps aux | grep ssh
+ 1762  kill 921370
+ 1763  ps aux | grep ssh
+ 1764  kill 922885
+ 1765  cd Downloads/
+ 1766  sudo apt-get install ./imager_1.7.4_amd64.deb 
+ 1767  mount
+ 1768  mount | grep bootfs
+ 1769  ../bootfs
+ 1770  ls /media/haduart/bootfs/
+ 1771  touch /media/haduart/bootfs/ssh
+ 1772  vim wpa_supplicant.conf
+ 1773  iwgetid
+ 1774  vim wpa_supplicant.conf
+ 1775  cp wpa_supplicant.conf /media/haduart/bootfs/
+ 1776  vim /media/haduart/bootfs/wpa_supplicant.conf 
+ 1777  cd
+ 1778  cat history.txt | grep ssh
+ 1779  ping raspeberrypi
+ 1780  ping raspberrypi
+ 1781  ifconfig 
+ 1782  ssh pi@192.168.1.84
+ 1783  ping raspberrypi.local
+ 1784  192.168.1.84
+ 1785  ssh pi@raspberrypi.local
+ 1786  ssh pi@raspberrypi.local -vvv
+ 1787  ssh pigio@raspberrypi.local -vvv
+ 1788  ls /media/haduart/rootfs/
+ 1789  ls /media/haduart/rootfs/boot/
+ 1790  ls /media/haduart/rootfs/usr/
+ 1791  ls /media/haduart/rootfs/home/
+ 1792  ls /media/haduart/rootfs/home/rpi-first-boot-wizard/
+ 1793  ls /media/haduart/rootfs/etc/
+ 1794  ls /media/haduart/rootfs/etc/passwd
+ 1795  cat /media/haduart/rootfs/etc/passwd
+ 1796  cat /media/haduart/rootfs/etc/group
+ 1797  touch /media/haduart/bootfs/ssh
+ 1798  cd Downloads/
+ 1799  ls
+ 1800  cp wpa_supplicant.conf /media/haduart/bootfs/
+ 1801  ls /media/haduart/bootfs/
+ 1802  ssh pi@raspberrypi.local -vvv
+ 1803  ssh pi@192.168.1.84
+ 1804  ssh haduart@192.168.1.35
+ 1805  ssh haduart@192.168.1.56 -vvv
+ 1806  ssh haduart@192.168.1.71
+ 1807  ssh haduart@192.168.1.52
+ 1808  ssh haduart@192.168.1.66
+ 1809  ssh haduart@192.168.1.121
+ 1810  ssh haduart@192.168.1.101
+ 1811  ssh haduart@raspberrypi.local
+ 1812  ssh-keygen -f "/home/haduart/.ssh/known_hosts" -R "raspberrypi.local"
+ 1813  ssh haduart@raspberrypi.local
+ 1814  ls
+ 1815  cd langchainjs-tutorial-1/
+ 1816  ls
+ 1817  cat output/responses-products-joma.json | grep sku | wc -l
+ 1818  ls
+ 1819  cat output/responses-products-joma-translated-GPT.json | grep sku | wc -l
+ 1820  cd ..
+ 1821  git clone git@github.com:jerosoler/waveform-path.git
+ 1822  cd waveform-path/
+ 1823  nu
+ 1824  ni
+ 1825  ls
+ 1826  more README.md 
+ 1827  rm -Rfdv node_modules/
+ 1828  cd ..
+ 1829  ls
+ 1830  git clone git@github.com:google/blockly-games.git
+ 1831  ls
+ 1832  cd langchainjs-tutorial-1/
+ 1833  ls
+ 1834  cat output/responses-products-joma-translated-GPT.json | grep sku | wc -l
+ 1835  ls
+ 1836  cd ..
+ 1837  ls
+ 1838  git clone git@github.com:google/blockly-samples.git
+ 1839  cd langchainjs-tutorial-1/
+ 1840  cat output/responses-products-joma-translated-GPT.json | grep sku | wc -l
+ 1841  cat src/responses-products-joma-translated-DeepL.json | grep sku | wc -l
+ 1842  cat src/responses-products-joma-translated-FULL.json | grep sku | wc -l
+ 1843  cd ..
+ 1844  git clone git@github.com:Logic-Flow/logicflow-node-red-vue3.git
+ 1845  cd logicflow-node-red-vue3/
+ 1846  ls
+ 1847  node -v
+ 1848  cp ../langchainjs-tutorial-1/.nvmrc .
+ 1849  nu
+ 1850  ni
+ 1851  nrs
+ 1852  npm run preview
+ 1853  cd Documents/HyperFox/
+ 1854  ls
+ 1855  cd Github/
+ 1856  ls
+ 1857  cd langchainjs-tutorial-1/
+ 1858  ls
+ 1859  cat output/responses-products-joma-translated-GPT.json 
+ 1860  cat output/responses-products-joma-translated-GPT.json | grep sku | wc -l
+ 1861  cd ..
+ 1862  git clone git@github.com:bpmn-io/bpmn-js-example-custom-elements.git
+ 1863  nu
+ 1864  cd bpmn-js-example-custom-elements/
+ 1865  nu
+ 1866  cp ../langchainjs-tutorial-1/.nvmrc .
+ 1867  nu
+ 1868  ni
+ 1869  ns
+ 1870  nrs
+ 1871  git remote -v
+ 1872  cd ..
+ 1873  gitname 
+ 1874  gitf
+ 1875  nu
+ 1876  ni
+ 1877  gitname 
+ 1878  gitf
+ 1879  gits
+ 1880  git stash 
+ 1881  gits
+ 1882  gitname 
+ 1883  git checkout master
+ 1884  git checkout main
+ 1885  gitPullCurrentBranch.sh 
+ 1886  ci
+ 1887  sailup 
+ 1888  pushd .
+ 1889  cd ../provisioner/
+ 1890  gitf
+ 1891  gitname 
+ 1892  ci
+ 1893  sailup 
+ 1894  popd 
+ 1895  cd Documents/HyperFox/Github/
+ 1896  git clone git@github.com:LaravelDaily/Laravel-Loan-Management-Demo.git
+ 1897  gits
+ 1898  nu
+ 1899  gitPullCurrentBranch.sh 
+ 1900  ni
+ 1901  nu
+ 1902  gits
+ 1903  gitname 
+ 1904  gitPullCurrentBranch.sh 
+ 1905  gitf
+ 1906  saildown 
+ 1907  pushd .
+ 1908  cd ../provisioner/
+ 1909  saildown 
+ 1910  popd 
+ 1911  cd Downloads/
+ 1912  sudo apt install ./discord-0.0.26.deb 
+ 1913  rm discord-0.0.26.deb 
+ 1914  cd Downloads/
+ 1915  ls
+ 1916  ls *.sql
+ 1917  vim client.sql 
+ 1918  vim hyperprint.sql 
+ 1919  cd Documents/HyperFox/Github/
+ 1920  ls
+ 1921  git clone git@github.com:vinzdeveloper/json-rule-editor.git
+ 1922  cd ..
+ 1923  ls
+ 1924  cd HyperFox/
+ 1925  cd Github/
+ 1926  ls
+ 1927  cp ~/Downloads/Rock-Paper-Camera.zip .
+ 1928  ls
+ 1929  mkdir Rock-Paper-Camera
+ 1930  mv Rock-Paper-Camera.zip Rock-Paper-Camera
+ 1931  cd Rock-Paper-Camera/
+ 1932  ls
+ 1933  unzip Rock-Paper-Camera.zip 
+ 1934  ls
+ 1935  cp ../langchainjs-tutorial-1/.nvmrc .
+ 1936  nu
+ 1937  ni
+ 1938  cat package
+ 1939  cat package.json 
+ 1940  ns
+ 1941  npm start
+ 1942  npm install
+ 1943  ls
+ 1944  cat package
+ 1945  cat package.json 
+ 1946  node index.js 
+ 1947  cd 
+ 1948  cd Downloads/
+ 1949  sudo apt-get install ./code_1.77.3-1681292746_amd64.deb 
+ 1950  rm ./code_1.77.3-1681292746_amd64.deb 
+ 1951  sudo apt-get install ./code-insiders_1.78.0-1682402165_amd64.deb 
+ 1952  cd ..
+ 1953  cd Documents/HyperFox/
+ 1954  cd Github/
+ 1955  git clone git@github.com:guangzhengli/ChatFiles.git
+ 1956  git clone git@github.com:pashpashpash/vault-ai.git
+ 1957  git clone git@github.com:laravel-workflow/sample-app.git
+ 1958  git clone git@github.com:spatie/laravel-event-sourcing.git
+ 1959  shutdown -r now
+ 1960  gits
+ 1961  gitname 
+ 1962  cd Documents/HyperFox/
+ 1963  git clone git@github.com:dewitholding/dwb.app.customerportal.mobile.git
+ 1964  ls
+ 1965  cd
+ 1966  cat history.txt | grep pdf
+ 1967  sudo apt install xournal
+ 1968  xournal Downloads/AUTORIZACION\ PARA\ SOLICITAR\ REFERENCIA\ Y\ DESCARGAR\ DATOS\ FISCALES.pdf 
+ 1969  history >> history.txt 
+ 1970  gits
+ 1971  gitPushCurrentBranch.sh 
+ 1972  ci
+ 1973  test
+ 1974  alias | grep test
+ 1975  stest
+ 1976  ./startAll.sh 
+ 1977  ls
+ 1978  ./test.sh 
+ 1979  ls
+ 1980  cat test.sh 
+ 1981  ci
+ 1982  ./test.sh 
+ 1983  history | grep stop
+ 1984  history | grep servi
+ 1985  cat history.txt | grep servi
+ 1986  cat history.txt | grep stop
+ 1987  stopHttpApache 
+ 1988  ./test.sh 
+ 1989  ./startAll.sh 
+ 1990  ./test.sh 
+ 1991  gitname 
+ 1992  ./test.sh 
+ 1993  gits
+ 1994  gitPushCurrentBranch.sh 
+ 1995  ./stopAll.sh 
+ 1996  ssh haduart@raspberrypi.local
+ 1997  ls
+ 1998  cp ../.nvmrc .
+ 1999  nvm use
+ 2000  ni
+ 2001  cdk
+ 2002  cdo lib/sample-app-cdk-stack.ts 
+ 2003  cdk synth
+ 2004  cdk bootstrap
+ 2005  cdk deploy
+ 2006  cdk diff
+ 2007  cdk deploy
+ 2008  cdk diff
+ 2009  nvm use
+ 2010  cdk diff
+ 2011  cdv --version
+ 2012  cdk --version
+ 2013  npm install -g aws-cdk
+ 2014  cdk --version
+ 2015  mkdir lambda
+ 2016  vim .gitignore 
+ 2017  gits
+ 2018  code lambda/hello.js
+ 2019  cdk diff
+ 2020  cdk deploy
+ 2021  curl https://vlqqonvox1.execute-api.eu-west-1.amazonaws.com/prod/
+ 2022  history >> history.txt
